@@ -91,7 +91,13 @@ if dataset_root and os.path.isdir(dataset_root):
     st.subheader("📑 Features Extracted (Preview)")
     st.dataframe(df.head(20))
 
-    save_path = os.path.join(dataset_root, "metadata_features.csv")
+    # --- New save path logic ---
+    output_folder = "csv_outputs"
+    os.makedirs(output_folder, exist_ok=True)
+
+    dataset_name = os.path.basename(dataset_root.rstrip("/\\"))  # get last folder name
+    save_path = os.path.join(output_folder, f"{dataset_name}_features.csv")
+
     df.to_csv(save_path, index=False)
     st.success(f"✅ Features saved to {save_path}")
 
