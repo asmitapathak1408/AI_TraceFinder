@@ -1,0 +1,161 @@
+file_name,class,width,height,aspect_ratio,file_size_kb,mean_intensity,std_intensity,skewness,kurtosis,entropy,edge_density,laplacian_var,mean_r,mean_g,mean_b,main_class,resolution,class_label,error
+s1_10.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,247.327,31.856,-4.21,16.492,0.701,0.027,1372.348,247.46,247.35,246.73,,,,
+s1_13.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,249.963,26.372,-5.751,33.207,0.593,0.035,1760.52,250.1,249.97,249.36,,,,
+s1_3.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,249.571,27.445,-5.525,30.516,0.6,0.034,1612.06,249.65,249.61,249.07,,,,
+s1_5.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,252.164,19.63,-7.752,61.876,0.392,0.019,986.483,252.24,252.18,251.76,,,,
+s1_6.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,253.284,15.161,-10.03,105.026,0.266,0.012,641.618,253.33,253.3,253.03,,,,
+s1_7.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,251.809,20.841,-7.235,53.36,0.427,0.022,1292.916,251.9,251.83,251.37,,,,
+s1_9.tif,Canon120-1,1240.0,1752.0,0.708,6366.8,248.617,29.683,-5.035,24.983,0.66,0.038,1881.443,248.8,248.62,248.06,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_41.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_51.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_52.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_53.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_55.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_56.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_57.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_58.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_59.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_60.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_61.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_62.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-1\300\s1_64.tif,,,,,,,,,,,,,,,,Canon120-1,300,Canon120-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s2_35.tif,Canon120-2,1240.0,1752.0,0.708,6366.8,248.127,32.488,-4.944,23.453,0.602,0.029,1294.325,248.23,248.14,247.69,,,,
+s2_42.tif,Canon120-2,1240.0,1752.0,0.708,6366.8,247.21,33.543,-4.374,17.89,0.678,0.023,1193.92,247.35,247.22,246.64,,,,
+s2_62.tif,Canon120-2,1240.0,1752.0,0.708,6366.8,249.425,28.068,-5.377,28.529,0.538,0.027,1264.94,249.28,249.51,249.34,,,,
+s2_96.tif,Canon120-2,1240.0,1752.0,0.708,6366.8,250.348,26.584,-6.193,38.385,0.446,0.015,589.154,250.05,250.47,250.42,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_100.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_2.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_69.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_96.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_97.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_98.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon120-2\300\s2_99.tif,,,,,,,,,,,,,,,,Canon120-2,300,Canon120-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s3_1.tif,Canon220,1240.0,1752.0,0.708,6366.8,248.146,31.164,-4.867,22.582,0.951,0.03,1119.72,248.94,247.97,246.68,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon220\300\s3_100.tif,,,,,,,,,,,,,,,,Canon220,300,Canon220_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon220\300\s3_19.tif,,,,,,,,,,,,,,,,Canon220,300,Canon220_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_15.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_75.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_76.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_77.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_78.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_79.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_80.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_81.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_82.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_83.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_85.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_86.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_87.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\Canon9000-1\300\s4_88.tif,,,,,,,,,,,,,,,,Canon9000-1,300,Canon9000-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s5_23.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,251.683,19.068,-7.121,53.124,0.65,0.022,929.525,252.05,251.61,250.93,,,,
+s5_37.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,250.835,23.879,-6.371,41.005,0.495,0.025,1058.033,250.93,250.84,250.5,,,,
+s5_39.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,251.984,18.462,-7.488,60.651,0.484,0.03,799.121,252.03,252.01,251.62,,,,
+s5_59.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,247.207,31.308,-4.323,18.102,0.84,0.037,1513.545,247.11,247.24,247.21,,,,
+s5_8.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,251.399,21.651,-6.867,48.411,0.562,0.024,1001.686,251.53,251.43,250.74,,,,
+s5_90.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,250.161,26.307,-5.954,35.398,0.563,0.024,971.171,250.24,250.19,249.67,,,,
+s5_91.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,251.08,23.334,-6.617,44.374,0.474,0.022,939.519,251.14,251.09,250.78,,,,
+s5_96.tif,Canon9000-2,1240.0,1754.0,0.707,6374.08,250.509,23.439,-6.157,39.438,0.608,0.025,1038.211,250.4,250.56,250.43,,,,
+s6_15.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,247.863,26.606,-5.173,27.34,1.997,0.041,1081.963,248.68,247.98,244.75,,,,
+s6_16.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,247.699,26.151,-4.573,21.389,1.739,0.047,1122.648,248.49,247.69,245.34,,,,
+s6_29.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,251.657,15.359,-8.005,70.736,1.589,0.013,306.279,252.2,251.78,249.22,,,,
+s6_31.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,242.835,34.662,-3.456,11.475,2.231,0.068,1989.734,244.1,242.64,240.08,,,,
+s6_4.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,245.577,30.684,-4.119,16.837,2.054,0.058,1747.608,246.28,245.66,242.87,,,,
+s6_54.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,250.394,20.41,-6.696,47.463,1.666,0.015,425.129,250.93,250.46,248.14,,,,
+s6_62.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,247.797,28.173,-4.986,24.583,1.823,0.029,909.239,248.36,247.88,245.44,,,,
+s6_68.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,248.359,29.403,-5.549,30.91,1.548,0.022,690.6,248.92,248.41,246.29,,,,
+s6_70.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,241.814,36.564,-3.292,10.127,2.337,0.084,2897.523,242.72,241.87,238.82,,,,
+s6_71.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,251.312,18.168,-6.639,46.523,1.217,0.025,863.716,251.56,251.43,249.65,,,,
+s6_73.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,245.526,32.535,-4.268,17.793,1.995,0.042,1022.274,246.6,245.49,242.52,,,,
+s6_74.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,250.269,19.19,-6.271,42.708,1.761,0.024,792.559,250.85,250.36,247.79,,,,
+s6_78.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,246.373,26.109,-4.562,22.588,2.081,0.035,1086.985,246.27,246.56,245.3,,,,
+s6_79.tif,EpsonV370-1,1236.0,1754.0,0.705,6353.53,249.364,23.492,-5.68,33.868,1.61,0.03,991.462,249.73,249.54,247.16,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_10.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_58.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_60.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_61.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_63.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_64.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_65.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_66.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_67.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_68.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_69.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV370-1\300\s6_70.tif,,,,,,,,,,,,,,,,EpsonV370-1,300,EpsonV370-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s7_19.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,249.723,24.02,-5.972,36.506,1.517,0.026,889.501,250.36,249.78,247.4,,,,
+s7_2.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,242.758,32.963,-3.403,11.371,2.341,0.082,2677.642,243.73,242.72,240.1,,,,
+s7_27.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,244.377,35.926,-3.895,14.449,1.7,0.045,1278.431,245.09,244.3,242.57,,,,
+s7_3.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,248.853,26.468,-5.289,28.538,1.303,0.036,1079.779,249.13,248.93,247.38,,,,
+s7_34.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,250.625,20.055,-6.595,46.535,1.513,0.029,740.849,251.15,250.7,248.43,,,,
+s7_42.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,245.798,33.696,-4.232,16.768,1.855,0.025,849.961,246.55,245.87,242.93,,,,
+s7_43.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,250.661,20.337,-6.268,41.177,1.335,0.028,914.802,250.96,250.79,248.85,,,,
+s7_44.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,247.741,27.928,-4.915,24.228,1.778,0.041,1349.456,248.4,247.83,245.17,,,,
+s7_45.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,249.939,22.666,-5.851,35.583,1.443,0.032,1042.789,250.44,250.05,247.66,,,,
+s7_9.tif,EpsonV370-2,1236.0,1754.0,0.705,6353.53,247.792,28.605,-4.804,23.14,1.441,0.041,1255.548,248.13,247.86,246.18,,,,
+s8_14.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,249.611,26.827,-5.64,31.96,0.798,0.033,1663.94,249.56,249.72,249.02,,,,
+s8_39.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,251.543,20.125,-7.1,53.969,0.642,0.03,947.444,251.5,251.63,251.07,,,,
+s8_40.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,250.596,21.034,-6.758,50.515,1.023,0.043,965.977,250.66,250.68,249.78,,,,
+s8_45.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,250.59,23.596,-6.185,39.187,0.736,0.031,1460.641,250.64,250.67,249.84,,,,
+s8_52.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,237.64,36.391,-1.823,2.072,1.435,0.011,354.551,231.66,239.46,243.81,,,,
+s8_53.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,249.728,25.843,-5.524,31.228,0.773,0.022,797.844,251.0,249.39,247.88,,,,
+s8_54.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,251.829,19.675,-7.459,58.382,0.577,0.013,507.756,251.67,251.97,251.39,,,,
+s8_55.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,246.432,26.112,-3.811,16.728,1.362,0.032,1001.137,246.72,246.51,245.01,,,,
+s8_56.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,243.919,32.425,-3.913,16.395,1.561,0.044,1660.324,244.02,244.07,242.54,,,,
+s8_57.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,250.165,24.886,-5.858,34.515,0.774,0.028,1060.126,250.29,250.2,249.47,,,,
+s8_59.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,246.479,33.317,-4.276,17.737,1.039,0.037,1684.271,246.21,246.66,246.03,,,,
+s8_60.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,251.344,22.52,-6.958,49.075,0.578,0.019,773.992,251.38,251.39,250.84,,,,
+s8_61.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,251.892,19.381,-7.401,57.283,0.614,0.022,1029.328,251.94,251.96,251.17,,,,
+s8_62.tif,EpsonV39-1,1240.0,1754.0,0.707,6374.08,249.15,28.435,-5.344,28.256,0.767,0.028,1156.444,249.0,249.26,248.81,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_13.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_14.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_15.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_16.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_17.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_18.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_20.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_21.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_22.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_23.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-1\300\s8_24.tif,,,,,,,,,,,,,,,,EpsonV39-1,300,EpsonV39-1_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s9_1.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,247.539,31.757,-4.782,22.032,1.24,0.03,858.082,248.11,247.5,245.85,,,,
+s9_10.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,246.997,32.062,-4.182,16.256,1.01,0.027,1139.536,247.05,247.1,246.05,,,,
+s9_15.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,249.228,27.332,-5.57,31.295,0.959,0.039,1438.647,249.32,249.3,248.35,,,,
+s9_17.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,250.36,22.964,-5.995,37.485,0.937,0.037,1486.288,250.48,250.44,249.34,,,,
+s9_23.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,251.255,20.164,-6.944,50.804,0.879,0.023,1018.375,251.73,251.18,250.09,,,,
+s9_24.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,252.036,18.56,-7.5,58.752,0.635,0.024,1119.455,252.1,252.08,251.43,,,,
+s9_26.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,250.87,23.393,-6.634,44.584,0.873,0.021,891.435,251.04,250.92,249.81,,,,
+s9_8.tif,EpsonV39-2,1240.0,1754.0,0.707,6374.08,250.817,23.128,-6.652,45.168,0.973,0.024,1092.403,251.05,250.89,249.39,,,,
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_15.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_17.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_18.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_19.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_20.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_21.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+C:\Users\Asmita Pathak\OneDrive\Desktop\feature_extractor\AI_TraceFinder\dataset\Official\EpsonV39-2\300\s9_22.tif,,,,,,,,,,,,,,,,EpsonV39-2,300,EpsonV39-2_300,"Unable to allocate 66.4 MiB for an array with shape (8699840,) and data type float64"
+s9_23.tif,EpsonV39-2,2480.0,3508.0,0.707,25495.07,250.76,22.1,-6.856,48.449,1.179,0.013,326.927,251.39,250.67,249.29,,,,
+s9_24.tif,EpsonV39-2,2480.0,3508.0,0.707,25495.07,251.657,20.752,-7.467,56.719,0.84,0.013,310.631,251.82,251.67,250.97,,,,
+s9_25.tif,EpsonV39-2,2480.0,3508.0,0.707,25495.07,248.543,31.051,-5.354,27.634,1.144,0.015,338.522,248.83,248.55,247.5,,,,
+s9_28.tif,EpsonV39-2,2480.0,3508.0,0.707,25495.07,251.775,21.07,-8.017,64.755,0.924,0.008,180.193,252.02,251.82,250.7,,,,
+s10_27.tif,EpsonV550,1239.0,1754.0,0.706,6368.94,245.373,35.124,-4.066,15.634,1.453,0.043,1589.583,246.39,245.25,242.95,,,,
+s10_30.tif,EpsonV550,1239.0,1754.0,0.706,6368.94,248.728,24.501,-4.508,19.342,1.52,0.024,524.455,248.88,248.96,246.68,,,,
+s10_32.tif,EpsonV550,1239.0,1754.0,0.706,6368.94,250.738,19.591,-6.707,48.488,1.507,0.037,998.603,251.6,251.14,246.22,,,,
+s10_33.tif,EpsonV550,1239.0,1754.0,0.706,6368.94,244.855,34.217,-3.875,14.397,1.644,0.061,2254.466,245.8,244.81,242.2,,,,
+s10_34.tif,EpsonV550,1239.0,1754.0,0.706,6368.94,251.224,19.352,-7.046,52.489,1.33,0.028,887.48,251.82,251.53,247.78,,,,
+s10_100.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,250.306,24.089,-6.628,44.011,1.487,0.011,232.804,250.96,250.6,246.84,,,,
+s10_23.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,250.451,21.804,-6.799,47.365,1.578,0.013,296.639,251.67,250.52,246.63,,,,
+s10_73.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,246.031,33.727,-4.458,18.984,1.825,0.024,385.663,247.48,246.04,241.92,,,,
+s10_90.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.14,25.57,-5.742,33.408,1.672,0.025,566.658,250.01,249.4,245.3,,,,
+s10_91.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.095,28.088,-5.73,32.168,1.498,0.014,273.015,249.85,249.39,245.3,,,,
+s10_92.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.935,25.274,-6.357,40.273,1.514,0.013,250.959,250.72,250.16,246.45,,,,
+s10_94.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.698,25.336,-6.482,41.793,1.724,0.012,239.739,250.83,250.02,244.9,,,,
+s10_95.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,251.084,22.162,-7.146,51.538,1.235,0.013,256.132,251.59,251.33,248.19,,,,
+s10_96.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.323,27.079,-5.902,34.576,1.53,0.009,183.936,249.85,249.65,245.98,,,,
+s10_98.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,244.283,35.907,-3.869,14.042,1.923,0.044,961.504,245.26,244.4,240.87,,,,
+s10_99.tif,EpsonV550,2478.0,3508.0,0.706,25474.52,249.366,25.45,-6.383,41.371,1.787,0.012,254.971,250.88,249.93,242.33,,,,
+s11_43.tif,HP,1240.0,1743.0,0.711,6334.1,240.379,20.537,-6.257,41.038,2.839,0.027,1383.886,240.41,240.42,240.07,,,,
+s11_46.tif,HP,1240.0,1727.0,0.718,6275.96,240.3,25.611,-5.166,26.895,2.912,0.038,1873.418,240.29,240.34,240.11,,,,
+s11_48.tif,HP,1240.0,1727.0,0.718,6275.96,240.893,17.315,-6.12,43.864,3.002,0.039,1129.435,240.99,240.9,240.56,,,,
+s11_99.tif,HP,1240.0,1727.0,0.718,6275.96,241.638,24.351,-6.146,38.581,2.804,0.022,1059.767,242.02,241.88,239.36,,,,
+s11_39.tif,HP,2481.0,3487.0,0.711,25352.67,238.908,20.179,-6.283,41.893,3.057,0.017,558.425,238.88,238.95,238.75,,,,
+s11_69.tif,HP,2481.0,3487.0,0.711,25352.67,236.909,21.848,-6.367,42.121,3.071,0.014,468.423,236.96,236.93,236.67,,,,
+s11_71.tif,HP,2481.0,3471.0,0.715,25236.34,235.635,19.575,-6.592,46.341,3.097,0.015,497.555,235.71,235.64,235.42,,,,
+s11_74.tif,HP,2481.0,3487.0,0.711,25352.67,237.998,19.779,-6.585,46.751,3.084,0.014,521.907,237.86,238.07,237.96,,,,

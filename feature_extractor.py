@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import os
 import cv2
-from PIL import Image, ExifTags
+from PIL import Image 
 from scipy.stats import skew, kurtosis, entropy
 
 # 🔹 New theme and title
@@ -11,11 +11,11 @@ st.set_page_config(page_title="📊 Dataset Feature Extractor", layout="wide")
 st.title("📊 Image Dataset Feature Extractor")
 
 # --- Feature extractor ---
-def extract_features(image_path, class_label):
+def extract_features(image_path, main_class, resolution):
     try:
         img = cv2.imread(image_path)
         if img is None:
-            return {"file_name": os.path.basename(image_path), "class": class_label, "error": "Unreadable file"}
+            return {"file_name": os.path.basename(image_path), "class": main_class, "error": "Unreadable file"}
 
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -48,7 +48,7 @@ def extract_features(image_path, class_label):
 
         return {
             "file_name": os.path.basename(image_path),
-            "class": class_label,
+            "class": main_class,
             "width": width,
             "height": height,
             "aspect_ratio": aspect_ratio,
@@ -65,7 +65,13 @@ def extract_features(image_path, class_label):
             "mean_b": round(mean_b, 2)
         }
     except Exception as e:
-        return {"file_name": image_path, "class": class_label, "error": str(e)}
+        return {
+            "file_name": image_path, 
+            "main_class": main_class, 
+            "resolution": resolution, 
+            "class_label": f"{main_class}_{resolution}", 
+            "error": str(e)
+        }
 
 # --- UI for dataset path ---
 dataset_root = st.text_input("📂 Enter dataset root path:", "")
@@ -74,25 +80,40 @@ if dataset_root and os.path.isdir(dataset_root):
     st.info("🔎 Scanning dataset...")
     records = []
 
-    classes = [f for f in os.listdir(dataset_root) if os.path.isdir(os.path.join(dataset_root, f))]
-    st.success(f" Detected {len(classes)} classes: {classes}")
+    main_classes = [f for f in os.listdir(dataset_root) if os.path.isdir(os.path.join(dataset_root, f))]
+    st.success(f" Detected {len(main_classes)} main_classes: {main_classes}")
 
-    for class_dir in classes:
-        class_path = os.path.join(dataset_root, class_dir)
-        files = [f for f in os.listdir(class_path) if f.lower().endswith((".jpg", ".jpeg", ".png"))]
+    for main_class in main_classes:
+        main_class_path = os.path.join(dataset_root, main_class)
 
-        st.write(f" Class '{class_dir}' → {len(files)} images")
-        for fname in files:
-            path = os.path.join(class_path, fname)
-            rec = extract_features(path, class_dir)
-            records.append(rec)
+        # Walk through all levels (main_class, subfolders, etc.)
+        for root, dirs, files in os.walk(main_class_path):
+            # Collect image files
+            image_files = [f for f in files if f.lower().endswith((".jpg", ".jpeg", ".png", ".tif", ".tiff"))]
+
+            if image_files:
+                # Class label: main_class + subfolder (if any)
+                relative_path = os.path.relpath(root, main_class_path)
+                if relative_path == ".":
+                    class_label = main_class
+                    resolution = "NA"
+                else:
+                    class_label = f"{main_class}_{relative_path}"
+                    resolution = relative_path
+
+                st.write(f" Class '{class_label}' → {len(image_files)} images")
+
+                for fname in image_files:
+                    path = os.path.join(root, fname)
+                    rec = extract_features(path, main_class, resolution)
+                    records.append(rec)
 
     df = pd.DataFrame(records)
     st.subheader("📑 Features Extracted (Preview)")
     st.dataframe(df.head(20))
 
     # --- New save path logic ---
-    output_folder = "csv_outputs"
+    output_folder = "csv_files"
     os.makedirs(output_folder, exist_ok=True)
 
     dataset_name = os.path.basename(dataset_root.rstrip("/\\"))  # get last folder name
