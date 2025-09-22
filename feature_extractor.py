@@ -38,17 +38,13 @@ def extract_features(image_path, main_class, resolution):
         edges = cv2.Canny(gray, 100, 200)
         edge_density = np.mean(edges > 0)
 
-        # Texture (Laplacian variance)
-        laplacian_var = cv2.Laplacian(gray, cv2.CV_64F).var()
-
-        # Color stats (RGB means)
-        mean_colors = cv2.mean(img)[:3]  # BGR
-        mean_r, mean_g, mean_b = mean_colors[2], mean_colors[1], mean_colors[0]
-
+        
 
         return {
             "file_name": os.path.basename(image_path),
             "class": main_class,
+            "resolution": resolution,
+            "class_label": f"{main_class}_{resolution}",
             "width": width,
             "height": height,
             "aspect_ratio": aspect_ratio,
@@ -58,11 +54,8 @@ def extract_features(image_path, main_class, resolution):
             "skewness": round(skewness, 3),
             "kurtosis": round(kurt, 3),
             "entropy": round(shannon_entropy, 3),
-            "edge_density": round(edge_density, 3),
-            "laplacian_var": round(laplacian_var, 3),
-            "mean_r": round(mean_r, 2),
-            "mean_g": round(mean_g, 2),
-            "mean_b": round(mean_b, 2)
+            "edge_density": round(edge_density, 3)
+            
         }
     except Exception as e:
         return {
@@ -74,7 +67,7 @@ def extract_features(image_path, main_class, resolution):
         }
 
 # --- UI for dataset path ---
-dataset_root = st.text_input("📂 Enter dataset root path:", "")
+dataset_root = st.text_input("Enter dataset root path:", "")
 
 if dataset_root and os.path.isdir(dataset_root):
     st.info("🔎 Scanning dataset...")
@@ -125,6 +118,20 @@ if dataset_root and os.path.isdir(dataset_root):
     if "class" in df.columns:
         st.subheader("📊 Class Distribution")
         st.bar_chart(df["class"].value_counts())
+
+    shown_classes = set()
+    for idx, row in df.iterrows():
+        cls_label = row["class_label"]
+        if cls_label not in shown_classes:
+            sample_path = os.path.join(dataset_root, row["main_class"], row["resolution"], row["file_name"])
+            if os.path.exists(sample_path):
+                try:
+                    img = Image.open(sample_path)
+                    cols[len(shown_classes) % 5].image(img, caption=cls_label, width="stretch")
+                    shown_classes.add(cls_label)
+                except:
+                    st.warning(f"⚠️ Could not display sample image: {sample_path}")
+
 
 
 
