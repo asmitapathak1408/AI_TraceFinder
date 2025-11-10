@@ -62,7 +62,7 @@ Primary dataset: [NIST OpenMFC](https://www.nist.gov/) (scans from multiple scan
 
 ## System architecture 
 Input image → Preprocessing → Feature extractor & CNN backbone → Classifier (ML / DL) → Evaluator → Streamlit UI (predict + explain)
-![System Architecture](./AI_TraceFinder/images/Architecture.png)
+![System Architecture](./images/Architecture.png)
 
 ---
 
